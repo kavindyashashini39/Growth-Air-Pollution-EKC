@@ -48,6 +48,4 @@ All datasets are publicly available in CSV format:
 - **Modeling:** Second-degree polynomial (quadratic) regression fitted per country on GDP per capita vs. CO₂ emissions per capita, to test for the inverted-U EKC relationship
 - **Data period:** ~1995–2025, five countries
 
-## Institution
 
-Horizon Campus — Faculty of Information Technology
